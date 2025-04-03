@@ -1,0 +1,7 @@
+torch
+torchvision
+kornia
+einops
+timm
+transformers
+ptflops
